@@ -28,7 +28,7 @@ def timer(set_time):
         print(f"\rCurrent Time: {current_time}", end="", flush=True)
         if current_time == timer_time:
             pygame.mixer.init()
-            pygame.mixer.music.load("Timer/alarm_sound.mp3")
+            pygame.mixer.music.load("assets/alarm_sound.mp3")
             pygame.mixer.music.play()
             print("\n")
             return
