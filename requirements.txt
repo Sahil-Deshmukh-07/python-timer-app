@@ -1,0 +1,4 @@
+pygame
+tk
+threading
+time
