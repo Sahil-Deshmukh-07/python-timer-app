@@ -21,10 +21,10 @@ A desktop timer application built using Python, Tkinter, and Pygame.
 python-timer-app/
 │
 ├── GUI.py
-├── timer.py
+├── tim.py
 ├── requirements.txt
 ├── README.md
-├── screenshots/
+├── Screenshots/
 │   └── Timer.png
 └── assets/
     └── alarm_sound.mp3
